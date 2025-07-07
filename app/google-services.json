@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755381620238",
+    "project_id": "doancnpm-302b9",
+    "storage_bucket": "doancnpm-302b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755381620238:android:db0117cefeb138d6ec365f",
+        "android_client_info": {
+          "package_name": "com.vantinh.tienganh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQQUxOyRCw9nNiKR807Na0RogJAyRXoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
